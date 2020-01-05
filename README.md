@@ -1,11 +1,30 @@
-# Azerbaijani TechMentors living across the world
-
-![alt text](img/banner.png)
+# Techbrains - "The moment silence is not gold …"
 
 Welcome to new networking approach.
 
+"Good intentions never work, you need good mechanisms to make anything happen." - Jeff Bezos
+
+
 - [About Us](#aboutus)
 - [Contact](#Contact)
+
+## Motivation
+- Onboard Open Source community spirit …
+- Good Leaders talk about it …
+- People need your expertise, motivation, love
+
+## Agenda
+Engineers love build stuff, solve problems!
+
+So let’s build, fix it:
+
+- Egoless, collaborative, competent,  decentralized, scalable, fun community culture
+- Structured and indexed data flow within community
+
+## NOT IN Agenda
+- Politics
+- Religion
+- Immigration
 
 
 ## Techbrains - US 01/18/2020
