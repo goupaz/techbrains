@@ -9,9 +9,24 @@ Welcome to new networking approach.
 - [Contact](#Contact)
 
 ## Motivation
-- Onboard Open Source community spirit …
-- Good Leaders talk about it …
+- Onboard Open Source community spirit
+- Good Leaders talk about it
 - People need your expertise, motivation, love
+
+There are some problems, all of us can keep talking, complaining which involves changing mindsets. As example, getting away from sugar, or being vegetarian, or changing community culture. But, sometimes we can partially suceed if right approach taken.
+
+### Delicious food & Successful career Use Case
+
+#### Requirements
+- Knowledge & experience = ingredients
+- The money spend on ingredients = health variables(late sleep, long work hours etc.), time and cost(spend on trainings, commute etc.)
+
+#### Conclusion
+- Right receipt makes food delicious! 
+  - Which ingredient in which quality = X technology in junior level
+  - Which ingredient what time = X coding language, after Y one
+  - Which ingredient how much = 2 years in X company
+  
 
 ## Agenda
 Engineers love build stuff, solve problems!
@@ -26,6 +41,15 @@ So let’s build, fix it:
 - Religion
 - Immigration
 
+## Timeline
+
+All participants have 5mins and 1 slide to talk. Time keeping should be in place, make sure todo homework not exceed allocated time budget.
+
+So, its up to participant creativity, some thoughts:
+
+1. Who you are, what are things you care and interest
+2. How can community help you, move faster in ladder
+3. Any how, you would like give back to community (referral, guidance etc.)
 
 ## Techbrains - US 01/18/2020
 
@@ -60,9 +84,9 @@ Our goal is simple to accelerate the development of the IT industry and reach th
 ## Contact
 You can contact us via:
 
-Slack : https://goupaz.slack.com
+Slack Workspace: https://goupaz.slack.com
 
-To join Slack! [link](https://join.slack.com/t/goupaz/shared_invite/enQtMjU1MjM5MDc2MzQxLWJkMTZiMGFhZDA3ZDkwZTgxMDNhMzc4YjFkZTBjZGMxZmQxYzA0NjEyMDM1ODVjMTBiYWUxN2UzMDVlNmYzMjU)
+To join us in Slack: [link](https://join.slack.com/t/goupaz/shared_invite/enQtMjU1MjM5MDc2MzQxLWJkMTZiMGFhZDA3ZDkwZTgxMDNhMzc4YjFkZTBjZGMxZmQxYzA0NjEyMDM1ODVjMTBiYWUxN2UzMDVlNmYzMjU)
 
 Youtube : https://www.youtube.com/goupaz
 
