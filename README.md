@@ -14,7 +14,7 @@ Welcome to new networking approach.
 
 |No| Name | Position | Company | Education |Linkedin| Video | Country |
 |------|----------------------|---------|---|-----|-----|------|------|
-|1| Sako M|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|Link](https://www.linkedin.com/in/sakom/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
+|1| Sako M|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Link](https://www.linkedin.com/in/sakom/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
 
 
 
