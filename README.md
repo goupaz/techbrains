@@ -10,7 +10,7 @@
 - Good Leaders talk about it
 - People need your expertise, motivation, love
 
-There are some problems, all of us can keep talking, complaining which involves changing mindsets. As example, getting away from sugar, or being vegetarian, or changing community culture. But, sometimes we can partially suceed if right approach taken.
+There are some problems, all of us can keep talking, complaining which involves changing mindsets. As example, getting away from sugar, or being vegetarian, or changing community culture. But, sometimes we can partially suceed if right approach is taken.
 
 ## Agenda
 Engineers love build stuff, solve problems!
