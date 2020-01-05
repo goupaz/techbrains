@@ -91,7 +91,7 @@ Note: For great TedTalk please check this [link](https://www.youtube.com/watch?v
 ## About Us
 
 ### Who we are?
-The GOUP project is the idea of a team of experienced and experienced IT teams living abroad.
+The GOUP project is the idea of a Azeri tech community living abroad.
 
 ### Mission
 Build bridges between tech professionals in a collaborative ways across the borders.
