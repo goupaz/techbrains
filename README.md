@@ -68,15 +68,12 @@ So, its up to participant creativity, some thoughts:
 
 |No| Name | Position | Company | Education |Linkedin| Video | Country |
 |------|----------------------|---------|---|-----|-----|------|------|
-|1| Sako M|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Link](https://www.linkedin.com/in/sakom/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
-|2| Kanan Rahimov|Sr. SWE|KPN| State Oil Academy - CS - Baku|[Link](https://www.linkedin.com/in/kananrahimov/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|Netherlands|
-|3| Emin Aliyev |CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics.
- |[Link](https://www.linkedin.com/in/eminfaliyev/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
-|4| Jahangir Najafov |Product Tech Manager|Google|Duke University - Fuqua School of Business
-Baku State University|[Link](https://www.linkedin.com/in/jahangirnajafov)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
-|5| Ibrahim Hasanov |Founder|Uviba|Qafqaz University (Dropout)
-Minerva Schools at K.G.I|[Link](https://www.linkedin.com/in/uviba/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
-|6|Chimnaz Shahbazzade Mammadov |Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) ‘20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|[Link](https://www.linkedin.com/in/chimnaz-shahbazzade)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
+|1| Sako M|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Link](https://www.linkedin.com/in/sakom/)|[Video]()|USA|
+|2| Kanan Rahimov|Sr. SWE|KPN| State Oil Academy - CS - Baku|[Link](https://www.linkedin.com/in/kananrahimov/)|[Video]()|Netherlands|
+|3| Emin Aliyev |CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|[Link](https://www.linkedin.com/in/eminfaliyev/)|[Video]()|USA|
+|4| Jahangir Najafov |Product Tech Manager|Google|Duke University - Fuqua School of Business Baku State University|[Link](https://www.linkedin.com/in/jahangirnajafov)|[Video]()|USA|
+|5| Ibrahim Hasanov |Founder|Uviba|Qafqaz University (Dropout) Minerva Schools at K.G.I|[Link](https://www.linkedin.com/in/uviba/)|[Video]()|USA|
+|6|Chimnaz Shahbazzade Mammadov |Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) 20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|[Link](https://www.linkedin.com/in/chimnaz-shahbazzade)|[Video]()|USA|
 |7| Orkhan Gasimli|SWE II|Uber|	University of Cologne - Business Law, LL.M. Baku State University - Business Law, LL.B.|[Link]( https://www.linkedin.com/in/ogasimli)|[Video]()|USA|
 |8| Vusal Ibrahimli|Financial Analyst III| Facebook|Data Analysis, Stanford Continuing Studies; MBA, Khazar University, Azerbaijan BA, Economics, Special Talent’s Group,Azerbaijan State University of Economics (UNEC |[Link](https://www.linkedin.com/in/vgasim/)|[Video]()|USA|
 |9| Kamil Rasulov|DevOps|SAP|BA Qafqaz University (Computer Engineering)|[Link](https://www.linkedin.com/in/kamil-rasulov-5b913b127/ )|[Video]()|USA|
