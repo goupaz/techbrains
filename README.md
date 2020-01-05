@@ -1,7 +1,5 @@
 # Techbrains - "The moment silence is not gold …"
 
-Welcome to new networking approach.
-
 "Good intentions never work, you need good mechanisms to make anything happen." - Jeff Bezos
 
 
