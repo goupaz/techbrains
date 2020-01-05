@@ -2,7 +2,6 @@
 
 "Good intentions never work, you need good mechanisms to make anything happen." - Jeff Bezos
 
-
 - [About Us](#aboutus)
 - [Contact](#Contact)
 
@@ -12,32 +11,6 @@
 - People need your expertise, motivation, love
 
 There are some problems, all of us can keep talking, complaining which involves changing mindsets. As example, getting away from sugar, or being vegetarian, or changing community culture. But, sometimes we can partially suceed if right approach taken.
-
-## Use Cases
-
-### UC01 - Delicious food & Successful career 
-
-#### Requirements
-- Knowledge & experience = ingredients
-- The money spend on ingredients = health variables(late sleep, long work hours etc.), time and cost(spend on trainings, commute etc.)
-
-#### Conclusion
-- Right receipt makes food delicious! 
-  - Which ingredient in which quality = X technology in junior level
-  - Which ingredient what time = X coding language, after Y one
-  - Which ingredient how much = 2 years in X company
-  
-### UC02 - Tribal Leadership
-There are 5 stages of community mindset:
-- All life sucks
-- My life sucks
-- I am great, others suck
-- We are great as community, others suck
-- Life is great!
-
-The success of community is measured, not based on individual level, but rather the majority of it in which stage.
-
-Note: For great TedTalk please check this [link](https://www.youtube.com/watch?v=xTkKSJSqU-I)
 
 ## Agenda
 Engineers love build stuff, solve problems!
@@ -87,6 +60,32 @@ So, its up to participant creativity, some thoughts:
 |17|Ayka Agayeva|IT Manager|Google|B.S.: University of Texas in Arlington (TX, USA); American University (Baku)|[Link](https://www.linkedin.com/in/ayka.agayeva/)|[Video](|USA|
 
 © 2020 GOUP. All Rights Reserved.
+
+## Use Cases
+
+### UC01 - Delicious food & Successful career 
+
+#### Requirements
+- Knowledge & experience = ingredients
+- The money spend on ingredients = health variables(late sleep, long work hours etc.), time and cost(spend on trainings, commute etc.)
+
+#### Conclusion
+- Right receipt makes food delicious! 
+  - Which ingredient in which quality = X technology in junior level
+  - Which ingredient what time = X coding language, after Y one
+  - Which ingredient how much = 2 years in X company
+  
+### UC02 - Tribal Leadership
+There are 5 stages of community mindset:
+- All life sucks
+- My life sucks
+- I am great, others suck
+- We are great as community, others suck
+- Life is great!
+
+The success of community is measured, not based on individual level, but rather the majority of it in which stage.
+
+Note: For great TedTalk please check this [link](https://www.youtube.com/watch?v=xTkKSJSqU-I)
 
 ## About Us
 
