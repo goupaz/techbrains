@@ -81,16 +81,14 @@ The GOUP project is the idea of a team of experienced and experienced IT teams l
 
 
 ### Mission
-Build bridges between our IT and IT professionals in foreign and local markets.
+Build bridges between tech professionals in a collaborative ways across the borders.
 
 ### Vision
-Preparation of Azerbaijani youth to enter foreign markets. <br />
-Development of Local Startup Infrastructure
-We bring latest technology updates to you 
+Make the world better place to live, using technology and right culture.
 
 ### Objectives
-Our goal is simple to accelerate the development of the IT industry and reach the largest audience.
-
+Build egoless, collaborative, competent,  decentralized, scalable, fun community culture.
+Our goal is simple to structure and index the data flow within communities. 
 
 ## Contact
 You can contact us via:
