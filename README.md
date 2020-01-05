@@ -57,7 +57,7 @@ So, its up to participant creativity, some thoughts:
 |14|Mikayil Gasimov |Sr Manager Network Systems|Gigamon|BA Computer Engineering, East Ukrainian Volodymyr Dahl National University|[Link](https://www.linkedin.com/in/mikayil-gasimov-61859b21)|[Video]()|USA|
 |15|Mahir Afandiyev|Cloud Database SRE|Oracle|Baku State University - Applied Mathematics|[Link](https://www.linkedin.com/in/mahirafandiyev/)|[Video]()|USA|
 |16|Mahammadiya Abdurahimov |Sr. SWE|Tripactions|Hacettepe University - Software Engineer - Ankara, Turkey|[Link](https://www.linkedin.com/in/mahammadiya/)|[Video]()|USA|
-|17|Ayka Agayeva|IT Manager|Google|B.S.: University of Texas in Arlington (TX, USA); American University (Baku)|[Link](https://www.linkedin.com/in/ayka.agayeva/)|[Video](|USA|
+|17|Ayka Agayeva|IT Manager|Google|B.S.: University of Texas in Arlington (TX, USA); American University (Baku)|[Link](https://www.linkedin.com/in/ayka.agayeva/)|[Video]()|USA|
 
 © 2020 GOUP. All Rights Reserved.
 
