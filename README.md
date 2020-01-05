@@ -69,6 +69,7 @@ So, its up to participant creativity, some thoughts:
 |No| Name | Position | Company | Education |Linkedin| Video | Country |
 |------|----------------------|---------|---|-----|-----|------|------|
 |1| Sako M|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Link](https://www.linkedin.com/in/sakom/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
+|2| Kanan Rahimov|Sr. SWE|KPN| State Oil Academy - CS - Baku|[Link](https://www.linkedin.com/in/kananrahimov/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|Netherlands|
 
 
 
