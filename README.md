@@ -77,8 +77,7 @@ So, its up to participant creativity, some thoughts:
 ## About Us
 
 ### Who we are?
-The GOUP project is the idea of a team of experienced and experienced IT teams living abroad. The main goal of the project is to develop Open Source resources in Azerbaijan and to share with you the experience gained abroad.
-
+The GOUP project is the idea of a team of experienced and experienced IT teams living abroad.
 
 ### Mission
 Build bridges between tech professionals in a collaborative ways across the borders.
