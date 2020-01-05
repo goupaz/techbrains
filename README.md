@@ -13,7 +13,7 @@
 There are some problems, all of us can keep talking, complaining which involves changing mindsets. As example, getting away from sugar, or being vegetarian, or changing community culture. But, sometimes we can partially suceed if right approach is taken.
 
 ## Agenda
-Engineers love build stuff, solve problems!
+Engineers love build stuff, solve problems! There is another role, called Community Architects, shaping dream community.
 
 So let’s build, fix it:
 
