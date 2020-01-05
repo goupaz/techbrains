@@ -15,7 +15,9 @@ Welcome to new networking approach.
 
 There are some problems, all of us can keep talking, complaining which involves changing mindsets. As example, getting away from sugar, or being vegetarian, or changing community culture. But, sometimes we can partially suceed if right approach taken.
 
-### Delicious food & Successful career Use Case
+## Use Cases
+
+### UC01 - Delicious food & Successful career 
 
 #### Requirements
 - Knowledge & experience = ingredients
@@ -27,6 +29,15 @@ There are some problems, all of us can keep talking, complaining which involves 
   - Which ingredient what time = X coding language, after Y one
   - Which ingredient how much = 2 years in X company
   
+### UC02 - Tribal Leadership
+There are 5 levels of community mindset:
+- All life sucks
+- My life sucks
+- I am great, others suck
+- We are great as community, others suck
+- Life is great!
+
+Note: For great TedTalk please check this [link](https://www.youtube.com/watch?v=xTkKSJSqU-I)
 
 ## Agenda
 Engineers love build stuff, solve problems!
