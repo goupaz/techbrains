@@ -30,12 +30,14 @@ There are some problems, all of us can keep talking, complaining which involves 
   - Which ingredient how much = 2 years in X company
   
 ### UC02 - Tribal Leadership
-There are 5 levels of community mindset:
+There are 5 stages of community mindset:
 - All life sucks
 - My life sucks
 - I am great, others suck
 - We are great as community, others suck
 - Life is great!
+
+The success of community is measured, not based on individual level, but rather the majority of it in which stage.
 
 Note: For great TedTalk please check this [link](https://www.youtube.com/watch?v=xTkKSJSqU-I)
 
