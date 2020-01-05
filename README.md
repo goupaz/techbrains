@@ -2,7 +2,7 @@
 
 "Good intentions never work, you need good mechanisms to make anything happen." - Jeff Bezos
 
-- [About Us](#aboutus)
+- [About Us](#about-us)
 - [Contact](#Contact)
 
 ## Motivation
