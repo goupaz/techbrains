@@ -41,7 +41,7 @@ So, its up to participant creativity, some thoughts:
 
 |No| Name | Position | Company | Education | Video | Country |
 |------|----------------------|---------|------|-----|------|------|
-|1| [Sako M](https://www.linkedin.com/in/sakom/)|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Link]|[Video]()|USA|
+|1| [Sako M](https://www.linkedin.com/in/sakom/)|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Video]()|USA|
 |2| [Kanan Rahimov](https://www.linkedin.com/in/kananrahimov/)|Sr. SWE|KPN| State Oil Academy - CS - Baku|[Video]()|Netherlands|
 |3| [Emin Aliyev](https://www.linkedin.com/in/eminfaliyev/)|CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|[Video]()|USA|
 |4| [Jahangir Najafov](https://www.linkedin.com/in/jahangirnajafov)|Product Tech Manager|Google|Duke University - Fuqua School of Business Baku State University|[Video]()|USA|
