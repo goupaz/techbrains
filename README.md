@@ -83,7 +83,7 @@ There are 5 stages of community mindset:
 - We are great as community, others suck
 - Life is great!
 
-The success of community is measured, not based on individual level, but rather the majority of it in which stage:
+The success of community is measured, not based on individual level, but rather in which stage the majority are:
 ![alt text](img/triballeadership.png)
 
 Note: For great TedTalk please check this [link](https://www.youtube.com/watch?v=xTkKSJSqU-I)
