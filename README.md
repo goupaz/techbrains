@@ -15,7 +15,7 @@ There are some problems, all of us can keep talking, complaining which involves 
 ## Agenda
 Engineers love build stuff, solve problems! There is another role, called Community Architects, shaping dream community.
 
-So let’s build, fix it:
+So let’s shape it:
 
 - Egoless, collaborative, competent,  decentralized, scalable, fun community culture
 - Structured and indexed data flow within community
@@ -39,25 +39,25 @@ So, its up to participant creativity, some thoughts:
 
 ![alt text](img/companies.png)
 
-|No| Name | Position | Company | Education |Linkedin| Video | Country |
-|------|----------------------|---------|---|-----|-----|------|------|
-|1| Sako M|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Link](https://www.linkedin.com/in/sakom/)|[Video]()|USA|
-|2| Kanan Rahimov|Sr. SWE|KPN| State Oil Academy - CS - Baku|[Link](https://www.linkedin.com/in/kananrahimov/)|[Video]()|Netherlands|
-|3| Emin Aliyev |CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|[Link](https://www.linkedin.com/in/eminfaliyev/)|[Video]()|USA|
-|4| Jahangir Najafov |Product Tech Manager|Google|Duke University - Fuqua School of Business Baku State University|[Link](https://www.linkedin.com/in/jahangirnajafov)|[Video]()|USA|
-|5| Ibrahim Hasanov |Founder|Uviba|Qafqaz University (Dropout) Minerva Schools at K.G.I|[Link](https://www.linkedin.com/in/uviba/)|[Video]()|USA|
-|6|Chimnaz Shahbazzade Mammadov |Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) 20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|[Link](https://www.linkedin.com/in/chimnaz-shahbazzade)|[Video]()|USA|
-|7| Orkhan Gasimli|SWE II|Uber|	University of Cologne - Business Law, LL.M. Baku State University - Business Law, LL.B.|[Link]( https://www.linkedin.com/in/ogasimli)|[Video]()|USA|
-|8| Vusal Ibrahimli|Financial Analyst III| Facebook|Data Analysis, Stanford Continuing Studies; MBA, Khazar University, Azerbaijan BA, Economics, Special Talent’s Group,Azerbaijan State University of Economics (UNEC |[Link](https://www.linkedin.com/in/vgasim/)|[Video]()|USA|
-|9| Kamil Rasulov|DevOps|SAP|BA Qafqaz University (Computer Engineering)|[Link](https://www.linkedin.com/in/kamil-rasulov-5b913b127/ )|[Video]()|USA|
-|10| Javidan Guliyev|SDE II|Performant|Baku State University - CS |[Link](https://www.linkedin.com/in/javidang/)|[Video]()|USA|
-|11|Emil Khaligov |Tech Support contract|Huawei| Azerbaijan Economy University|[Link](https://www.linkedin.com/in/emil-khaligov-7181a15b/)|[Video]()|USA|
-|12|Farhad Alakbarov |Founder|Hooqa|B.E. Azerbaijan Technical University|[Link](https://www.linkedin.com/in/farikus/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
-|13|Ziya Karimov|Tech Support Engineer|Fortinet|National Aviation Academy |[Link](https://www.linkedin.com/in/ziyakerimov/)|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
-|14|Mikayil Gasimov |Sr Manager Network Systems|Gigamon|BA Computer Engineering, East Ukrainian Volodymyr Dahl National University|[Link](https://www.linkedin.com/in/mikayil-gasimov-61859b21)|[Video]()|USA|
-|15|Mahir Afandiyev|Cloud Database SRE|Oracle|Baku State University - Applied Mathematics|[Link](https://www.linkedin.com/in/mahirafandiyev/)|[Video]()|USA|
-|16|Mahammadiya Abdurahimov |Sr. SWE|Tripactions|Hacettepe University - Software Engineer - Ankara, Turkey|[Link](https://www.linkedin.com/in/mahammadiya/)|[Video]()|USA|
-|17|Ayka Agayeva|IT Manager|Google|B.S.: University of Texas in Arlington (TX, USA); American University (Baku)|[Link](https://www.linkedin.com/in/ayka.agayeva/)|[Video]()|USA|
+|No| Name | Position | Company | Education | Video | Country |
+|------|----------------------|---------|------|-----|------|------|
+|1| [Sako M](https://www.linkedin.com/in/sakom/)|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Link]|[Video]()|USA|
+|2| [Kanan Rahimov](https://www.linkedin.com/in/kananrahimov/)|Sr. SWE|KPN| State Oil Academy - CS - Baku|[Video]()|Netherlands|
+|3| [Emin Aliyev](https://www.linkedin.com/in/eminfaliyev/)|CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|[Video]()|USA|
+|4| [Jahangir Najafov](https://www.linkedin.com/in/jahangirnajafov)|Product Tech Manager|Google|Duke University - Fuqua School of Business Baku State University|[Video]()|USA|
+|5| [Ibrahim Hasanov](https://www.linkedin.com/in/uviba/)|Founder|Uviba|Qafqaz University (Dropout) Minerva Schools at K.G.I|[Video]()|USA|
+|6|[Chimnaz Shahbazzade Mammadov](https://www.linkedin.com/in/chimnaz-shahbazzade)|Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) 20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|[Video]()|USA|
+|7| [Orkhan Gasimli]( https://www.linkedin.com/in/ogasimli)|SWE II|Uber|	University of Cologne - Business Law, LL.M. Baku State University - Business Law, LL.B.|[Video]()|USA|
+|8| [Vusal Ibrahimli](https://www.linkedin.com/in/vgasim/)|Financial Analyst III| Facebook|Data Analysis, Stanford Continuing Studies; MBA, Khazar University, Azerbaijan BA, Economics, Special Talent’s Group,Azerbaijan State University of Economics (UNEC |[Video]()|USA|
+|9| [Kamil Rasulov](https://www.linkedin.com/in/kamil-rasulov-5b913b127/ )|DevOps|SAP|BA Qafqaz University (Computer Engineering)|[Video]()|USA|
+|10| [Javidan Guliyev](https://www.linkedin.com/in/javidang/)|SDE II|Performant|Baku State University - CS|[Video]()|USA|
+|11|[Emil Khaligov](https://www.linkedin.com/in/emil-khaligov-7181a15b/)|Tech Support contract|Huawei| Azerbaijan Economy University|[Video]()|USA|
+|12|[Farhad Alakbarov](https://www.linkedin.com/in/farikus/)|Founder|Hooqa|B.E. Azerbaijan Technical University|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
+|13|[Ziya Karimov](https://www.linkedin.com/in/ziyakerimov/)|Tech Support Engineer|Fortinet|National Aviation Academy|[Video](https://www.youtube.com/watch?v=Kvr1S4USXOI)|USA|
+|14|[Mikayil Gasimov](https://www.linkedin.com/in/mikayil-gasimov-61859b21)|Sr Manager Network Systems|Gigamon|BA Computer Engineering, East Ukrainian Volodymyr Dahl National University|[Video]()|USA|
+|15|[Mahir Afandiyev](https://www.linkedin.com/in/mahirafandiyev/)|Cloud Database SRE|Oracle|Baku State University - Applied Mathematics|[Video]()|USA|
+|16|[Mahammadiya Abdurahimov](https://www.linkedin.com/in/mahammadiya/)|Sr. SWE|Tripactions|Hacettepe University - Software Engineer - Ankara, Turkey|[Video]()|USA|
+|17|[Ayka Agayeva](https://www.linkedin.com/in/ayka.agayeva/)|IT Manager|Google|B.S.: University of Texas in Arlington (TX, USA); American University(Baku)|[Video]()|USA|
 
 © 2020 GOUP. All Rights Reserved.
 
