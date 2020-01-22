@@ -41,7 +41,8 @@ So, its up to participant creativity, some thoughts:
 ![alt text](img/community_onsite_ca_us.png)
 
 Full Recording of the meeting: [Video](https://youtu.be/dVKLBccSDag)
-Slides of the meeting:
+
+Slides of the meeting:[Slides](slides/2020/TechBrains_Kickoff_2020_SV_US.pdf)
 
 |No| Name | Position | Company | Education | Attendance | Country |
 |------|----------------------|---------|------|-----|------|------|
