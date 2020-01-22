@@ -87,7 +87,7 @@ Slides of the meeting: [Slides](slides/2020/TechBrains_Kickoff_2020_SV_US.pdf)
 |34|[Tural Badirkhanli](https://www.linkedin.com/in/turalb/)|X|Solidshape|MIT|Onsite|USA|
 |35|[Chimnaz Shahbazzade Mammadov](https://www.linkedin.com/in/chimnaz-shahbazzade)|Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) 20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|Missed|USA|
 |36| [Vurğun H](www.linkedin.com/in/vurgun)|CTO|ATL|PhD.Sciences Institute of Cybernetics|Missed|AZE|
-|37| [Abbas (Aydin) Angouti](https://www.linkedin.com/in/abbas-angouti)|Software Engineer|Nextdoor|M.S.: Colorado School of Mines (Golden, Colorado)|Missed|AZE|
+|37| [Abbas (Aydin) Angouti](https://www.linkedin.com/in/abbas-angouti)|Software Engineer|Nextdoor|M.S.: Colorado School of Mines (Golden, Colorado)|Missed|USA|
 |38| [Kanan Rahimov](https://www.linkedin.com/in/kananrahimov/)|Sr. SWE|KPN| State Oil Academy - CS - Baku|Missed|EU|
 |39|[Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)|Software Engineer|Egov|N/A|Missed|AZE|
 
