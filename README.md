@@ -36,14 +36,18 @@ So, its up to participant creativity, some thoughts:
 3. Any how, you would like give back to community (referral, guidance etc.)
 
 ## Techbrains - US 01/18/2020
+![alt text](img/current_companies_of_community_ca_us.png)
+![alt text](img/community_ca_us.png)
+![alt text](img/community_onsite_ca_us.png)
 
-![alt text](img/companies.png)
+Full Recording of the meeting: [Video](https://youtu.be/dVKLBccSDag)
+Slides of the meeting:
 
-|No| Name | Position | Company | Education | Video | Country |
+|No| Name | Position | Company | Education | Attendance | Country |
 |------|----------------------|---------|------|-----|------|------|
-|1| [Sako M](https://www.linkedin.com/in/sakom/)|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|[Video]()|USA|
-|2| [Kanan Rahimov](https://www.linkedin.com/in/kananrahimov/)|Sr. SWE|KPN| State Oil Academy - CS - Baku|[Video]()|Netherlands|
-|3| [Emin Aliyev](https://www.linkedin.com/in/eminfaliyev/)|CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|[Video]()|USA|
+|1| [Sako M](https://www.linkedin.com/in/sakom/)|DevOps|OpenGov|MSc: ITU(US), Eurecom(France), Qafqaz Uni(Azerbaijan)|Onsite|USA|
+|2| [Kanan Rahimov](https://www.linkedin.com/in/kananrahimov/)|Sr. SWE|KPN| State Oil Academy - CS - Baku|Missed|Netherlands|
+|3| [Emin Aliyev](https://www.linkedin.com/in/eminfaliyev/)|CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|[Remote|USA|
 |4| [Jahangir Najafov](https://www.linkedin.com/in/jahangirnajafov)|Product Tech Manager|Google|Duke University - Fuqua School of Business Baku State University|[Video]()|USA|
 |5| [Ibrahim Hasanov](https://www.linkedin.com/in/uviba/)|Founder|Uviba|Qafqaz University (Dropout) Minerva Schools at K.G.I|[Video]()|USA|
 |6|[Chimnaz Shahbazzade Mammadov](https://www.linkedin.com/in/chimnaz-shahbazzade)|Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) 20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|[Video]()|USA|
