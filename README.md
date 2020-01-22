@@ -38,7 +38,7 @@ So, its up to participant creativity, some thoughts:
 ## Logistics
 It is for 1 person/year. First time, more like as intro, coming years, it is more like public update. What did and what is going to do.
 
-![Template slides](https://github.com/goupaz/techbrains/blob/master/slides/Template_TechBrains_Kickoff.pptx)
+![Template slides](slides/Template_TechBrains_Kickoff.pptx)
 
 ## Techbrains - US 01/18/2020
 ![alt text](img/current_companies_of_community_ca_us.png)
