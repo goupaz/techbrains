@@ -55,7 +55,7 @@ Slides of the meeting: [Slides](slides/2020/TechBrains_Kickoff_2020_SV_US.pdf)
 |2| [Ramin Orujov](https://www.linkedin.com/in/raminorujov/)|Founder|ITCITY|N/A|Remote|AZE|
 |3| [Rovshan Musayev](https://www.linkedin.com/in/rovshan-musayev/)|DevOps|NN Group|N/A|Remote|EU|
 |4| [Kanan Mammadli](https://www.linkedin.com/in/kananmammadli/)|Lead Software Engineer|EPAM|N/A|Remote|USA|
-|5| [Emin Aliyev](https://www.linkedin.com/in/eminfaliyev/)|CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|Remote|EU|
+|5| [Emin Aliyev](https://www.linkedin.com/in/eminfaliyev/)|CEO|Easymove|Baku State University - Applied Mathematics and Economic Cybernetics|Remote|USA|
 |6| [Adil Adilli](https://www.linkedin.com/in/adiladilli/)|Software Engineer|Microsoft|University of Melbourne, MS, Mechatronics Engineering|Remote|USA|
 |7| [Said Samadli](n/a)|Software Engineer|Techtronic Industries Greenville| University of Tennessee Electrical Engineering & Computer Science|Remote|USA|
 |8| [Sabina Shahbazzadeh](https://www.linkedin.com/in/sabinashahbazzade/)|Software Engineer|Techtronic Industries Greenville| University of Tennessee Electrical Engineering & Computer Science|Remote|USA|
