@@ -82,14 +82,14 @@ Slides of the meeting: [Slides](slides/2020/TechBrains_Kickoff_2020_SV_US.pdf)
 |29|[Fuad Malikov](https://www.linkedin.com/in/malikov/)|Engineering Manager|Google|Bogazici University, Computer Engineering BS|Onsite|USA|
 |30|[Anar Mammadov](https://www.linkedin.com/in/mammedov/)|Tech Co-founder|Senpex|Khazar University, Engineering MS|Onsite|USA|
 |31|[Teymur Sadikhov](https://www.linkedin.com/in/teymur-sadikhov-ph-d-09200734/)|CEO|Silicon Valley Technology Consulting Group|Ph.D Georgia Institute of Technology|Onsite|USA|
-|31|[Elshan Nur](https://www.linkedin.com/in/teymur-sadikhov-ph-d-09200734/)|CEO|Silicon Valley Technology Consulting Group|Ph.D Georgia Institute of Technology|Onsite|USA|
-
-
-
-
-|2| [Kanan Rahimov](https://www.linkedin.com/in/kananrahimov/)|Sr. SWE|KPN| State Oil Academy - CS - Baku|Missed|Netherlands|
-|6|[Chimnaz Shahbazzade Mammadov](https://www.linkedin.com/in/chimnaz-shahbazzade)|Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) 20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|[Video]()|USA|
-
+|32|[Elshan Nur](https://www.linkedin.com/in/elshannur/)|Operations Manager|Senpex|Technische University of Dresden|Onsite|USA|
+|33|[Bakhtiyar Neyman](https://www.linkedin.com/in/b%C3%A4xtiyar-neyman-b63341a/)|Software Engineer|Google|UC San Diego|Onsite|USA|
+|34|[Tural Badirkhanli](https://www.linkedin.com/in/turalb/)|X|Solidshape|MIT|Onsite|USA|
+|35|[Chimnaz Shahbazzade Mammadov](https://www.linkedin.com/in/chimnaz-shahbazzade)|Identity Operations|Twitter|Golden Gate University - International Law, SJD (PhD) 20 University of California, Berkeley - Business Law, LL.M. Baku State University - International Law, LL.B., LL.M|Missed|USA|
+|36| [Vurğun H](www.linkedin.com/in/vurgun)|CTO|ATL|PhD.Sciences Institute of Cybernetics|Missed|AZE|
+|37| [Abbas (Aydin) Angouti](https://www.linkedin.com/in/abbas-angouti)|Software Engineer|Nextdoor|M.S.: Colorado School of Mines (Golden, Colorado)|Missed|AZE|
+|38| [Kanan Rahimov](https://www.linkedin.com/in/kananrahimov/)|Sr. SWE|KPN| State Oil Academy - CS - Baku|Missed|EU|
+|39|[Emin Guliyev](https://www.linkedin.com/in/emin-ghuliev-461a22129/)|Software Engineer|Egov|N/A|Missed|AZE|
 
 
 © 2020 GOUP. All Rights Reserved.
