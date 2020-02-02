@@ -5,7 +5,7 @@
 - [About Us](#about-us)
 - [Contact](#Contact)
 
-# Kickoff 2020
+## Kickoff Meetup 2020
 - [California,US](#techbrains---caus-01182020)
 
 ## Motivation
