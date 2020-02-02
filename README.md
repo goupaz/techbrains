@@ -5,6 +5,9 @@
 - [About Us](#about-us)
 - [Contact](#Contact)
 
+# Community 2020
+- [California,US](#techbrains---ca,us-01182020)
+
 ## Motivation
 - Onboard Open Source community spirit
 - Good Leaders talk about it
@@ -40,7 +43,7 @@ It is for 1 person/year. First time, more like as intro, coming years, it is mor
 
 [Template slides](slides/Template_TechBrains_Kickoff.pptx)
 
-## Techbrains - US 01/18/2020
+## Techbrains - CA,US 01/18/2020
 ![alt text](img/current_companies_of_community_ca_us.png)
 ![alt text](img/community_ca_us.png)
 ![alt text](img/community_onsite_ca_us.png)
