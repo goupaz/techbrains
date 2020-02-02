@@ -5,8 +5,8 @@
 - [About Us](#about-us)
 - [Contact](#Contact)
 
-# Community 2020
-- [California,US](#techbrains---ca,us-01182020)
+# Kickoff 2020
+- [California,US](#techbrains---caus-01182020)
 
 ## Motivation
 - Onboard Open Source community spirit
