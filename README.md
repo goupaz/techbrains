@@ -139,6 +139,12 @@ Make the world better place to live, using technology and right culture.
 Build egoless, collaborative, competent,  decentralized, scalable, fun community culture.
 Our goal is simple to structure and index the data flow within communities. 
 
+## Code of Conduct
+- Once keep scaling use email in BCC mode, for initiatives 1:1 communications and Slack is preferred
+- It is tech community and easy to use English as a preference, but you are free
+- "Don't let me think 8x8" rule should be applied to email (8 bullets x 8 words)
+- You may do get spammed, annoyed, distracted sometimes maybe, let's see the good side, keep inspiring, supporting each other and move on
+
 ## Contact
 You can contact us via:
 
