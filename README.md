@@ -146,11 +146,6 @@ Our goal is simple to structure and index the data flow within communities.
 - You may do get spammed, annoyed, distracted sometimes maybe, let's see the good side, keep inspiring, supporting each other and move on
 
 ## Contact
-You can contact us via:
-
-Slack Workspace: https://goupaz.slack.com
-
-To join us in Slack: [link](https://join.slack.com/t/goupaz/shared_invite/enQtMjU1MjM5MDc2MzQxLWJkMTZiMGFhZDA3ZDkwZTgxMDNhMzc4YjFkZTBjZGMxZmQxYzA0NjEyMDM1ODVjMTBiYWUxN2UzMDVlNmYzMjU)
 
 [Slack](https://bit.ly/2wSJ5db)
 
