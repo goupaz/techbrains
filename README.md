@@ -152,7 +152,8 @@ Slack Workspace: https://goupaz.slack.com
 
 To join us in Slack: [link](https://join.slack.com/t/goupaz/shared_invite/enQtMjU1MjM5MDc2MzQxLWJkMTZiMGFhZDA3ZDkwZTgxMDNhMzc4YjFkZTBjZGMxZmQxYzA0NjEyMDM1ODVjMTBiYWUxN2UzMDVlNmYzMjU)
 
-Youtube : https://www.youtube.com/goupaz
+[Slack](https://bit.ly/2wSJ5db)
 
-Facebook : https://www.facebook.com/goupaz
+[Youtube](https://www.youtube.com/goupaz)
 
+[Facebook](https://www.facebook.com/goupaz)
